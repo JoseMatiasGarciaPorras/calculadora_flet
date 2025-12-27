@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CalculadoraFlet app
 
 ## Run the app
@@ -59,3 +60,6 @@ flet build windows -v
 ```
 
 For more details on building Windows package, refer to the [Windows Packaging Guide](https://docs.flet.dev/publish/windows/).
+=======
+# calculadora_flet
+>>>>>>> 4efda591b27460c72ae793c10237fca205d1b3c6
